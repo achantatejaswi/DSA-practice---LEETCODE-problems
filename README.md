@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0496-next-greater-element-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0496-next-greater-element-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0349-intersection-of-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
