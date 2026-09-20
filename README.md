@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0566-reshape-the-matrix) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
