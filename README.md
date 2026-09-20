@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0605-can-place-flowers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0594-longest-harmonious-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
