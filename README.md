@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0575-distribute-candies) |
 | [3483-unique-3-digit-even-numbers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0575-distribute-candies) |
 | [3483-unique-3-digit-even-numbers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
