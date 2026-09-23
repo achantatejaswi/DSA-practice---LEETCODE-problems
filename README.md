@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [3483-unique-3-digit-even-numbers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Recursion
 |  |
 | ------- |
