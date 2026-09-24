@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0922-sort-array-by-parity-ii](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0922-sort-array-by-parity-ii](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0922-sort-array-by-parity-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0922-sort-array-by-parity-ii](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0922-sort-array-by-parity-ii) |
 ## Stack
 |  |
 | ------- |
