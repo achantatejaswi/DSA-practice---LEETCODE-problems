@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0575-distribute-candies) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Greedy
 |  |
@@ -119,4 +121,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
