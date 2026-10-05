@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0541-reverse-string-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0541-reverse-string-ii) |
 ## Queue
 |  |
 | ------- |
