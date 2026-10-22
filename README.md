@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -137,5 +138,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0392-is-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
