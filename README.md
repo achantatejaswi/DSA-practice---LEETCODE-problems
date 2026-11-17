@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0190-reverse-bits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
