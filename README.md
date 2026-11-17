@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
