@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/achantatejaswi/DSA-practice---LEETCODE-problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
