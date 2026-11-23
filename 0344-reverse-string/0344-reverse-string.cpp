@@ -4,13 +4,11 @@
 class Solution {
 public:
     void reverseString(std::vector<char>& s) {
-        int left = 0;
-        int right = s.size() - 1;
-        
-        while (left < right) {
-            std::swap(s[left], s[right]);
-            left++;
-            right--;
-        }
+        int n = s.size();
+      for (int i = 0; i < n/2; i++) {
+          std::swap(s[i] , s[n - i - 1]);
+      }
     }
 };
+        
+  
